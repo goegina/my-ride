@@ -1,0 +1,53 @@
+P{
+    text-align: center;
+}
+
+p{
+  font-size: 14px;
+}
+
+p{
+  text-align: 50px  50px;
+}
+
+h1{
+    text-align: center;
+}
+
+h1{
+    color: #810af0;
+}
+
+.navbar {
+    background:#333;
+    overflow: hidden ;
+    padding: 25px 69px;
+  }
+  
+  .navbar a {
+    float: left;
+    color:#4CAF50;
+    text-align: center;
+    text-decoration: none;
+    font-size: 19px;
+  }
+  
+  .navbar a:hover {
+    background-color: #ddd;
+    color: black;
+  }
+  
+  .navbar a.active {
+    background-color: #4CAF50;
+    color: white;
+  }
+
+
+
+
+
+
+
+  
+
+
